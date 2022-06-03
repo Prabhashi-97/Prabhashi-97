@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhashi-97&label=Profile%20views&color=0e75b6&style=flat" alt="prabhashi-97" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@prabhashi11" target="blank"><img src="https://img.shields.io/twitter/follow/@prabhashi11?logo=twitter&style=for-the-badge" alt="@prabhashi11" /></a> </p>
+
 
 - 🔭 I’m currently working on [CGU Project- University of Moratuwa](https://github.com/SoftwareChasers-CGU-Project)
 
