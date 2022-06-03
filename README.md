@@ -1,6 +1,7 @@
-markdown
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://static.wixstatic.com/media/35318b_ed32b39faf8a4ff0bce9b919183a9e4b~mv2.gif))]
 <h1 align="center">Hi 👋, I'm Prabhashi Wijesinghe</h1>
 <h3 align="center">A passionate software developer from Sri Lanka</h3>
+<img align="right" alt=Coding" width="400" src="https://static.wixstatic.com/media/6a735e_1649804cacbd4b5988bd8e5deb009f47~mv2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhashi-97&label=Profile%20views&color=0e75b6&style=flat" alt="prabhashi-97" /> </p>
 
