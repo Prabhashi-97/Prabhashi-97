@@ -1,4 +1,4 @@
-![MasterHead](https://www.careerguide.com/career/wp-content/uploads/2020/03/Floating-head-for-GIF-1.gif.gif)
+![MasterHead](https://miro.medium.com/max/1400/1*uhto-quyYXWqGUmFH7o3RA.gif)
 <h1 align="center">Hi 👋, I'm Prabhashi Wijesinghe</h1>
 <h3 align="center">An IT undergraduate of University of Moratuwa from Sri Lanka</h3>
 <img align="right" alt=Coding" width="400" src="https://static.wixstatic.com/media/6a735e_1649804cacbd4b5988bd8e5deb009f47~mv2.gif">
