@@ -1,8 +1,9 @@
 
+[![An image of @prashi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prashi)](https://holopin.io/@prashi)
 ![MasterHead](https://miro.medium.com/max/1400/1*uhto-quyYXWqGUmFH7o3RA.gif)
 <h1 align="center">Hi 👋, I'm Prabhashi Wijesinghe</h1>
 <h3 align="center">An IT undergraduate of University of Moratuwa from Sri Lanka</h3>
-[![An image of @prashi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prashi)](https://holopin.io/@prashi)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhashi-97&label=Profile%20views&color=0e75b6&style=flat" alt="prabhashi-97" /> </p>
 
