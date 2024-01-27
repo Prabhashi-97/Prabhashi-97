@@ -4,15 +4,15 @@
 <h3 align="center">An IT undergraduate of University of Moratuwa from Sri Lanka</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhashi-97&label=Profile%20views&color=0e75b6&style=flat" alt="prabhashi-97" /> </p>
 
-- 🔭 I’m currently working on [CGU Project- University of Moratuwa](https://github.com/SoftwareChasers-CGU-Project)
+- 🔭 I’m currently working on project [Story Telling Application for Deaf Children](https://github.com/Storytelling-for-Deaf)
 
-- 🌱 I’m currently learning **Java, Angular and AWS**
+- 🌱 I’m currently learning **ASP .NET, Node.js and Azure**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 📝 I regularly write articles on [http://prabhashiwijesinghe.medium.com](http://prabhashiwijesinghe.medium.com)
 
-- 💬 Ask me about **Java, C, HTML, CSS, MySQL**
+- 💬 Ask me about **React, Java, ASP .NET, Azure, MySQL**
 
 - 📫 How to reach me **dilkiiwijesinghe@gmail.com**
 
